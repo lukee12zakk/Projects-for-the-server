@@ -1,3 +1,3 @@
 # Projects-for-the-server
 
-This is the github page for ideas, bugs and more
+This is the page where you can submit ideas for projects, and submit bug requestes.
