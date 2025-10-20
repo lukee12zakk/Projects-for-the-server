@@ -2,7 +2,7 @@
 
 This is the page where you can submit ideas for projects, and submit bug requestes. 
 
-This is also the public page for ([School-fed-os](https://github.com/lukee12zakk/School-fed-os)), where you can submit issues to be reviewed before being published.
+If you are looking for the ([School-os](https://github.com/lukee12zakk/School-fed-os)), its not here, but in its own repo. Bugs, issues and feature requests are not done on this repo.
 Note: The school-fed-os is for selected testers only. if you are not a tester, you do not need to worry about this
 
 
